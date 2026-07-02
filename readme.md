@@ -11,15 +11,11 @@ Co-Reading 시스템은 하나의 시를 다음과 같은 과정으로 처리한
 ```text
 Poem Text
    ↓
-KPoEM Emotion Classification
+KPoEM Emotion Classification Model
    ↓
-Primary / Secondary Emotion Selection
+Emotion–Color Transformation Algorithm
    ↓
-Emotion Polarity Classification
-   ↓
-KCoEM-based Color Selection
-   ↓
-I.R.I-based Saturation / Brightness Adjustment
+I.R.I.-based Context Engineering
    ↓
 Emotion–Color Visualization
 ```
